@@ -4,3 +4,6 @@ traer un servidor www.blalblalba.com
 
 00web host
 web hosting sql
+
+usar get
+postman
