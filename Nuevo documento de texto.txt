@@ -7,3 +7,7 @@ web hosting sql
 
 usar get
 postman
+
+Ejercicio clase 3: Convertir json un objeto
+Ejercicio clase 4: Subir una imagen mediante postman --> Subo la imagen, si ya existe muevo la vieja a una carpeta backup y le 
+agrego la fecha en la que fue sobreescrita.
